@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension client="api" type="language" method="upgrade">
+	<name>Português do Brasil (pt-BR)</name>
+	<tag>pt-BR</tag>
+	<version>4.0.0-rc4</version>
+	<creationDate>Julho de 2021</creationDate>
+	<author>Português do Brasil -  Time de traduções</author>
+	<authorEmail>idioma@usejoomla.com.br</authorEmail>
+	<authorUrl>www.usejoomla.com.br</authorUrl>
+	<copyright>(C) 2013 Open Source Matters, Inc.</copyright>
+	<license>GNU Geral Licença Pública versão 2 ou posterior; Veja License.txt.</license>
+	<description>pt-BR idioma da API</description>
+	<files>
+		<folder>/</folder>
+		<filename file="meta">install.xml</filename>
+	</files>
+	<params/>
+</extension>

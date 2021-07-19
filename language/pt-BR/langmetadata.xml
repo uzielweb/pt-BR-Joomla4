@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metafile client="site">
+	<name>Português do Brasil (pt-BR)</name>
+	<version>4.0.0-rc4</version>
+	<creationDate>Julho de 2021</creationDate>
+	<author>Português do Brasil -  Time de traduções</author>
+	<authorEmail>idioma@usejoomla.com.br</authorEmail>
+	<authorUrl>www.usejoomla.com.br</authorUrl>
+	<copyright>(C) 2013 Open Source Matters, Inc.</copyright>
+	<license>GNU Geral Licença Pública versão 2 ou posterior; Veja License.txt.</license>
+	<description><![CDATA[pt-BR site language]]></description>
+	<metadata>
+		<name>Português do Brasil (Brasil)</name>
+		<nativeName>Português do Brasil (Brasil)</nativeName>
+		<tag>pt-BR</tag>
+		<rtl>0</rtl>
+		<locale>pt_BR.utf8, pt_BR.UTF-8, pt_BR, ptbr, portuguese, brazilian-portuguese, brazil</locale>
+		<firstDay>1</firstDay>
+		<weekEnd>0,6</weekEnd>
+		<calendar>gregorian</calendar>
+	</metadata>
+	<params/>
+</metafile>
