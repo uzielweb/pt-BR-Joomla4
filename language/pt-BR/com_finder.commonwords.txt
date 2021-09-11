@@ -3,177 +3,177 @@
 ; License GNU General Public License version 2 or later; see LICENSE.txt
 ; Note : This file needs to be saved as UTF-8
 
-eu
-Eu
-minha
-Eu mesmo
-nós
-nosso
-nosso
-nós mesmos
-vocês
-sua
-Sua
-você mesmo
-a si mesmos
-ele
-ele
-seu
-ele mesmo
-ela
-sua
-dela
-ela própria
-isto
-Está
-em si
-eles
-eles
-seus
-deles
-eles mesmos
-o que
-que
-quem
-o qual
-esta
-naquela
-esses
-Essa
-sou
-é
-estão
-estava
-nós estamos
-ser
-fui
-sendo
-ter
-tem
-teve
-tendo
-Faz
-faz
-fez
-fazendo
-seria
-deve
-poderia
-deveria
-Eu estou
-você é
-ele é
-ela é
-Está
-estavam
-eles estão
-eu tenho
-você tem
-Nós temos
-Eles têm
-identidade
-você
-ele'd.
-cabana
-Casar
-eles teriam
-doente
-você vai
-inferno
-Concha
-Nós vamos
-eles vão
-não é
-não são
-não era
-não eram
-não
-não
-não tinha
-não
-não
-não
-não vai
-não iria
-shan't.
-não deveria
-não pode
-não pode
-não podia
-não deve
-vamos
-isso é
-quem é
-o que é
-aqui está
-há
-quando é
-Onde está a
-Por que
-como está
-uma
+i
+me
+my
+myself
+we
+our
+ours
+ourselves
+you
+your
+yours
+yourself
+yourselves
+he
+him
+his
+himself
+she
+her
+hers
+herself
+it
+its
+itself
+they
+them
+their
+theirs
+themselves
+what
+which
+who
+whom
+this
+that
+these
+those
+am
+is
+are
+was
+were
+be
+been
+being
+have
+has
+had
+having
+do
+does
+did
+doing
+would
+should
+could
+ought
+i'm
+you're
+he's
+she's
+it's
+we're
+they're
+i've
+you've
+we've
+they've
+i'd
+you'd
+he'd
+she'd
+we'd
+they'd
+i'll
+you'll
+he'll
+she'll
+we'll
+they'll
+isn't
+aren't
+wasn't
+weren't
+hasn't
+haven't
+hadn't
+doesn't
+don't
+didn't
+won't
+wouldn't
+shan't
+shouldn't
+can't
+cannot
+couldn't
+mustn't
+let's
+that's
+who's
+what's
+here's
+there's
+when's
+where's
+why's
+how's
 a
-à
-e
-mas
-E se
-ou
-Porque
-como
-até
-enquanto
-de
+an
+the
+and
+but
+if
+or
+because
+as
+until
+while
+of
+at
+by
+for
+with
+about
+against
+between
+into
+through
+during
+before
+after
+above
+below
+to
+from
+up
+down
+in
+out
+on
+off
+over
+under
+again
+further
+then
+once
+here
+there
+when
+where
+why
+how
+all
+any
+both
+each
+few
+more
+most
+other
+some
+such
 no
-de
-para
-com
-cerca de
-contra
-entre
-para dentro
-Através dos
-no decorrer
-antes
-após
-acima de
-abaixo de
-para
-a partir de
-pra cima
-baixa
-dentro
-Fora
-sobre
-fora
-sobre
-sob
-novamente
-avançar
-então
-uma vez
-aqui
-lá
-quando
-Onde
-Por quê
-Como as
-tudo
-algum
-Ambas
-cada
-alguns
-mais
-a maioria
-outro
-algum
-tal
-não
-nem
-não
-só
-ter
-mesmo
-tão
-que
-também
-muito
+nor
+not
+only
+own
+same
+so
+than
+too
+very
