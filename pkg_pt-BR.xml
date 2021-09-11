@@ -2,7 +2,7 @@
 <extension type="package" method="upgrade">
 	<name>Português do Brasil (pt-BR) Language pack</name>
 	<packagename>pt-BR</packagename>
-	<version>4.0.2</version>
+	<version>4.0.0-rc4</version>
 	<creationDate>Julho 2021</creationDate>
 	<author>Português do Brasil - Time de traduções : usejoomla.com.br</author>
 	<authorEmail>idioma@usejoomla.com.br</authorEmail>

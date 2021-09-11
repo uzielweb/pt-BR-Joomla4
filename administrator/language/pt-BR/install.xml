@@ -2,7 +2,7 @@
 <extension client="administrator" type="language" method="upgrade">
 	<name>Português do Brasil (pt-BR)</name>
 	<tag>pt-BR</tag>
-	<version>4.0.2</version>
+	<version>4.0.0-rc4</version>
 	<creationDate>Julho de 2021</creationDate>
 	<author>Português do Brasil -  Time de traduções</author>
 	<authorEmail>idioma@usejoomla.com.br</authorEmail>
